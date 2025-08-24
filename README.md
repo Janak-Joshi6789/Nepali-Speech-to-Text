@@ -24,7 +24,7 @@ This project is designed to improve accessibility, support Nepali language proce
 
 Due to large size, dataset files are not included in this repository.
 We collected Nepali speech data and paired them with text transcriptions.
-👉 You can download the dataset from [Google Drive / Kaggle / Hugging Face] (link to be provided).
+
 
 🛠️ Tech Stack
 
