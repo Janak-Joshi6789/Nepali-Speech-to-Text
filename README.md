@@ -20,5 +20,44 @@ This project is designed to improve accessibility, support Nepali language proce
 - Extensible for mobile or web-based integration.  
 
 ---
+📊 Dataset
 
+Due to large size, dataset files are not included in this repository.
+We collected Nepali speech data and paired them with text transcriptions.
+👉 You can download the dataset from [Google Drive / Kaggle / Hugging Face] (link to be provided).
+
+🛠️ Tech Stack
+
+Python
+
+PyTorch / TensorFlow
+
+Wav2Vec2 / DeepSpeech / Custom Models
+
+Librosa, Torchaudio, NumPy, Pandas
+
+📈 Evaluation
+
+We evaluate the system using:
+
+Word Error Rate (WER)
+
+Character Error Rate (CER)
+
+
+👨‍🎓 Project Team
+
+Deepesh Shrestha 
+Janak Raj Joshi
+Nabraj Joshi
+Piyush Gwayaumaru
+Rashik Prajapati
+
+Supervisor: Ms. Sarala Shakya
+Khwopa Engineering College
+
+📜 License
+
+This project is for academic purposes only (7th Semester Project).
+You are free to reuse and extend with proper citation.
 
